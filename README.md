@@ -177,5 +177,5 @@ cargo build --release
 - [Halo's Gate](https://blog.sektor7.net/#!res/2021/halosgate.md) - Hell's Gate variant for hooked ntdll
 - [SysWhispers2](https://github.com/jthuraisamy/SysWhispers2) - Direct syscall stubs
 - [SysWhispers3](https://github.com/klezVirus/SysWhispers3) - Indirect syscalls via jumps to ntdll
-- [Defeating EDR Evading Malware with Memory Forensics](https://www.volexity.com/blog/2024/08/08/defcon-32-talk-defeating-edr-evading-malware-with-memory-forensics/) - VAD/PEB analysis
+- [Defeating EDR Evading Malware with Memory Forensics](https://www.volexity.com/wp-content/uploads/2024/08/Defcon24_EDR_Evasion_Detection_White-Paper_Andrew-Case.pdf) - VAD/PEB analysis
 - [Volatility ldrmodules](https://volatility3.readthedocs.io/en/latest/volatility3.plugins.windows.ldrmodules.html) - Detecting unlinked DLLs
